@@ -1,0 +1,14 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\ChunkActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\FastNoiseLite.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\MarchingCube.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\MarchingCubes.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\TerrainManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\ChunkActor.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\MarchingCube.init.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\MarchingCubes.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\TerrainManager.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MarchingCube\\TriArr.gen.cpp.obj"
+	]
+}

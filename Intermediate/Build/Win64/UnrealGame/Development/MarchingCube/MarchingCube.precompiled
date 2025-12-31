@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MarchingCube\\Module.MarchingCube.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MarchingCube\\ChunkActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MarchingCube\\FastNoiseLite.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MarchingCube\\MarchingCube.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MarchingCube\\MarchingCubes.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MarchingCube\\TerrainManager.cpp.obj"
+	]
+}

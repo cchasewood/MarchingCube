@@ -1,0 +1,10 @@
+# Build artifacts
+Binaries/
+Intermediate/
+
+# Derived data / caches
+DerivedDataCache/
+Saved/
+
+# Packaged plugin output
+Packaged/
